@@ -2,16 +2,6 @@
 
 Welcome to the Food Recipe App! This app helps you search for food recipes and get detailed instructions and information about various dishes.
 
-## Table of Contents
-
-- [Features](#features)
-- [What You Need](#what-you-need)
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-- [Using the App](#using-the-app)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
